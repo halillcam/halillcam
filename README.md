@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Halil</h1>
-<h3 align="center">A passionate Dart/Fluuter developer from Turkiye</h3>
+<h3 align="center">A passionate Dart/Flutter developer from Turkiye</h3>
 - 🔭 I’m currently working on Flutter
 
 <div align="center">
