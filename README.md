@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Halil</h1>
 <h3 align="center">A passionate Mobile App developer and Mobile App Security Enthusiast from Turkiye</h3>
-- 🔭 I’m currently working on Mobile App Security
 
 <div align="center">
  <a href="https://github.com/halillcam">
